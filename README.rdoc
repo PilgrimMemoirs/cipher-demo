@@ -1,5 +1,5 @@
 == Cipher Demo App
 
-###Gems Used
+Gems Used
 
 * [Caesar Gem](https://github.com/robertodecurnex/caesar)
